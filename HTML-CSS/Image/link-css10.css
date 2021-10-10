@@ -1,0 +1,17 @@
+body{
+	margin:10px;	
+	}
+div
+{
+	width:400px;
+	height:50vh;;
+	border:10px solid transparent;
+	border-image:url('./Girl.jpg') 10 round;
+	background-color:#0C3;
+	background:
+	url('./girl2.jpg') left top no-repeat,
+	url('./Girl.jpg') right bottom no-repeat;
+	
+		background-blend-mode:multiply;
+	
+		
